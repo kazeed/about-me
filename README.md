@@ -17,3 +17,7 @@ After learning to code by myself, I started in the tech industry around 2005 and
 - App Development (.net, js, sql, java...)
 - Agile (Scrum, Kanban, XP, Less...)
 - Projects & people (project, development, support)
+
+## More
+
+You can find out more about me [on my CV](https://github.com/kazeed/about-me/blob/master/assets/20181212_CV_usEN_jmansito.pdf).
